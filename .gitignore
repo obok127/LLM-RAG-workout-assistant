@@ -1,0 +1,47 @@
+# OS/macOS
+.DS_Store
+
+# Editors/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+.cache/
+cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node (just in case)
+node_modules/
+
+# Streamlit
+.streamlit/
+
+# Env files
+.env
+.env.*
+
