@@ -346,7 +346,7 @@ docker run --rm -p 8501:8501 \
 
 ## \[ Demo / YouTube ]
 
-* (링크 추가 예정)
+* [(시연 영상)](https://youtu.be/4JtC5eUrYwo)
 
 ---
 
