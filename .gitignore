@@ -32,6 +32,9 @@ ENV/
 .cache/
 cache/
 
+# Local large model files
+GGUF/
+
 # Jupyter
 .ipynb_checkpoints/
 
